@@ -40,6 +40,8 @@ Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes
 
 ## 🚀 Getting Started
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LekoArts/gatsby-starter-specimens) [![Edit gatsby-starter-specimens](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/LekoArts/gatsby-starter-specimens/tree/master/)
+
 1. **Create a Gatsby site.**
 
 Use the Gatsby CLI to create a new site, specifying this project
@@ -91,7 +93,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 
 - **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Reference Guides_ and _Gatsby API_ sections in the sidebar.
 
-## 🌟Supporting me
+## 🌟 Supporting me
 
 Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
 
