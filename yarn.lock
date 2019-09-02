@@ -942,7 +942,7 @@
   dependencies:
     "@hapi/hoek" "8.x.x"
 
-"@lekoarts/gatsby-theme-specimens@^1.0.3":
+"@lekoarts/gatsby-theme-specimens@^1.0.4":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-1.0.4.tgz#4f498128a0047e1bcaf5491f95e800a1641bb5a7"
   integrity sha512-4tWPXRggOp+zcu92Te6H0fCygYdsi60+jdgzGhvce6/EdGf9fKKkpuZXQRFbW3PUbHSGsFhASdaiXmM6odbt+Q==
