@@ -1041,10 +1041,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@lekoarts/gatsby-theme-specimens@^1.0.12":
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-1.0.12.tgz#2556c79b3bf5daa0d2ea46263fcabdc80fba66ac"
-  integrity sha512-7v8onKq21hexi1sLKkXfaC4EzVRmTSisYjg7DH9SbLGgbbFrgvAyqoXTAnYFXVQZyBltij6JZa6dUfbV8XIjsg==
+"@lekoarts/gatsby-theme-specimens@^1.0.13":
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-1.0.13.tgz#5f44cdd1777f3fb20b7e5413d370d400af549357"
+  integrity sha512-IA8d8bQZhBxNJ4ZqGz1SQ9/HuKxSOdF7lqqvOy+7y4gA0hAtBsCWKQBd6v2frhQ8xjiKDyTllgAqeQUibOnf2g==
   dependencies:
     "@emotion/core" "^10.0.22"
     "@mdx-js/react" "^1.5.1"
@@ -1052,9 +1052,9 @@
     "@theme-ui/presets" "^0.2.44"
     chroma-js "^2.1.0"
     gatsby-plugin-theme-ui "^0.2.43"
-    gatsby-plugin-typescript "^2.1.16"
+    gatsby-plugin-typescript "^2.1.19"
     polished "^3.4.2"
-    theme-ui "^0.2.46"
+    theme-ui "^0.2.49"
 
 "@mdx-js/mdx@^1.3.1":
   version "1.5.1"
@@ -5250,7 +5250,7 @@ gatsby-plugin-theme-ui@^0.2.34, gatsby-plugin-theme-ui@^0.2.43:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.2.43.tgz#a2baa2bdba1bd923edeb63f1ebdf48c36b5c63ef"
   integrity sha512-rBQ5vlTSeuUuv929s5k6VUit7k/VXqZOFxd5FlMyR9DCo87zqEJhQ0sobkLrfhAiAo80TUyQEEA0GbLZtrb6pA==
 
-gatsby-plugin-typescript@^2.1.16:
+gatsby-plugin-typescript@^2.1.19:
   version "2.1.19"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.1.19.tgz#d71905857b7a967a865a40f288870e1b6400d716"
   integrity sha512-SevAhAKUqmZZO+7TNXM2c2BSaHzSx79FBN84UNPCVVq4l7kK1aUdvyYaxjiwYbJzOVjqOkrjLTzjt3I2MUADNA==
@@ -11280,7 +11280,7 @@ text-table@0.2.0, text-table@^0.2.0:
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
   integrity sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=
 
-theme-ui@^0.2.35, theme-ui@^0.2.46:
+theme-ui@^0.2.35, theme-ui@^0.2.49:
   version "0.2.49"
   resolved "https://registry.yarnpkg.com/theme-ui/-/theme-ui-0.2.49.tgz#3803952907e74e6835d40b063aed0d46c213e2d9"
   integrity sha512-hgULYonGu8iY3delv/GrMx4L/3nAJyEu55gEAAK3GDKVEVf4VNng3lM9/tgx4kUizTFVEB5MN5y+1JTHHOQLXQ==
