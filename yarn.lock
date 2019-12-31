@@ -991,10 +991,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@lekoarts/gatsby-theme-specimens@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-2.0.1.tgz#dcd07c5ce9abd85b2d869a8613ab7420024628f0"
-  integrity sha512-J3LKwixrSldDXGaloXrKXfr9vesw+80RCCt7NulcvICe8OhX4Mbc9LkmZXphPiUS9LI0tV7MGAAmDAJbc5z3hA==
+"@lekoarts/gatsby-theme-specimens@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-2.0.2.tgz#dbdd0f800d767098d1a38a4edb049d729091810a"
+  integrity sha512-wzU0l6qsBRjyYgjx6tfgR5dcuZJN7E2bQCk/9WLEFuYqdnziGh6ogcKMN0+j7uCqPPmM4Nt1gxS/1j6DrgcfHQ==
   dependencies:
     "@emotion/core" "^10.0.27"
     "@styled-system/css" "^5.1.4"
