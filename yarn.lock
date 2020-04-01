@@ -1059,7 +1059,7 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@lekoarts/gatsby-theme-specimens@^2.1.5":
+"@lekoarts/gatsby-theme-specimens@^2.1.6":
   version "2.1.6"
   resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-2.1.6.tgz#4d0daa728fe68f42d4bb23de071996a060c5634d"
   integrity sha512-mdORSzJFF6KY34Q2V1h2N7QmlAgX8SJb3Go0YibYd/F+4XgYT72dl9c1wCCO0URVKxOPVXWZA3keFejdwd8rPg==
