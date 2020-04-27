@@ -1064,7 +1064,7 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@lekoarts/gatsby-theme-specimens@^2.1.8":
+"@lekoarts/gatsby-theme-specimens@^2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-2.2.0.tgz#16a039dbf29421fadb296ab22b6089a0ba91c43e"
   integrity sha512-j2Knr0181Lbxsv+6Wt6OMEGV4tzFlSZy0IURhveNGtteNqwpjReqC5d5iHoIxzhClUGrG2Wi10R4T5bNbd8evg==
